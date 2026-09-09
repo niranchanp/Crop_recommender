@@ -1,10 +1,4 @@
-Edited crop_recommender.py
-Ran command: ` c:; cd 'c:\Users\Rana T\OneDrive\Documents\crop project'; & 'c:\Users\Rana T\AppData\Local\Programs\Python\Python313\python.exe' 'c:\Users\Rana T\.antigravity-ide\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\libs\debugpy\launcher' '57480' '--' 'C:\Users\Rana T\OneDrive\Documents\crop project\crop_recommender.py' `
-Viewed crop_recommender.py:115-128
 
-Here is a complete, structured project description for your **Crop Recommendation System**:
-
----
 
 # 🌾 Smart Agriculture: Crop Recommendation System
 
